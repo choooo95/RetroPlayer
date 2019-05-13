@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Retro Music</string>
+    <string name="title_for_you">For you</string>
+    <string name="title_songs">Songs</string>
+    <string name="title_albums">Albums</string>
+    <string name="title_artists">Artists</string>
+    <string name="title_playlists">Playlists</string>
+</resources>
